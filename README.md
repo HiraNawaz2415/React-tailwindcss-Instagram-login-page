@@ -8,19 +8,12 @@ This is a simple authentication app built with **React** and **React Router DOM*
 -  Signup Page
 -  Routing between pages using `react-router-dom`
 -  Modular component structure
+-  
+## 📸 Screenshots
 
-##  Folder Structure
-
-login-app/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── LoginPage.js
-│ │ └── SignupPage.js
-│ ├── App.js
-│ ├── index.js
-│ └── index.css
-└── package.json
+| Login Page | Signup Page|
+|-----------|----------------|
+| ![Home](screenshots/login.png) |![Chart](screenshots/signup.png) |
 
 
 ##  Tech Stack
